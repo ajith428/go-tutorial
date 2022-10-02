@@ -15,4 +15,4 @@
 # vendor/
 
 # IntelliJ
-*.idea
+.idea/
